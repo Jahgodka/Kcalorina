@@ -1,0 +1,11 @@
+out/
+bin/
+*.class
+.idea/
+*.iml
+*.iws
+.vscode/
+.DS_Store
+Thumbs.db
+*~
+*.swp
